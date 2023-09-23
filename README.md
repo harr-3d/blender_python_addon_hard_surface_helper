@@ -1,6 +1,6 @@
 # Hard Surface Helper - A Blender Addon Scripted in Python
 
-This addon is desing to help with several repetitives tasks encountered while
+This addon is designed to help with several repetitive tasks encountered while
 hard surface modeling in Blender.
 
 There are options to automatically move the bevel on an object to the bottom of
